@@ -1,0 +1,8 @@
+class TypeCasting {
+    
+    public static void main(String[] args) {
+        long a = 56l;
+        double b = a;
+        System.out.println(b);
+    }
+}
